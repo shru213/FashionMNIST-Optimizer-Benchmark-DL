@@ -4,6 +4,7 @@
 **A Deep Learning classification project comparing the efficiency of Neural Network optimizers.**
 
 ![Sample Input](sample_dress.png)
+
 *(Sample input from the dataset: A Dress processed by the model)*
 
 ## 📌 Project Overview
